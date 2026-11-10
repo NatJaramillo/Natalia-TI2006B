@@ -1,0 +1,7 @@
+name: ti2006b-workbench
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - ipykernel
+prefix: C:\Users\jaram\anaconda3\envs\ti2006b-workbench
